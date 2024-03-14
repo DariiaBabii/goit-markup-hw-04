@@ -392,6 +392,10 @@ img {
   row-gap: 48px;
 }
 
+.body-card {
+  color: var(--light-bg-color);
+}
+
 .card-link {
   text-decoration: none;
 }
